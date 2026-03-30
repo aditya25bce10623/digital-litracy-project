@@ -63,7 +63,7 @@ Prepared a detailed case study on phishing attacks along with a prevention guide
 
 ##  Google Form Quiz
 ```bash
- hƩps://docs.google.com/forms/d/e/1FAIpQLSf6nOqtYvxYbDĬwgyhsuOykfsnurpgKEoy37cl1YqqzhNag/viewform?usp=publish-editor
+https://docs.google.com/forms/d/e/1FAIpQLSf6nOqtYvxYbDfhwgyhsuOyk-fsnurpgKEoy37cl1YqqzhNag/viewform?usp=dialog
 ```
 ---
 
