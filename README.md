@@ -10,7 +10,7 @@
 
 ##  Project Overview
 
-This repository contains my Digital Literacy Project submitted for the course at VIT Bhopal University. The project focuses on developing essential digital skills required in today’s technology-driven world, including digital awareness, professional online presence, responsible communication, collaboration tools, and cyber safety.
+This repository contains a case study on Digital Literacy submitted for the course at VIT Bhopal University. The project focuses on developing essential digital skills. including digital awareness, professional online presence, responsible communication, collaboration tools, and cyber safety.
 
 Through five structured tasks, this project demonstrates the effective and ethical use of digital technologies for academic and professional growth.
 
@@ -24,11 +24,11 @@ Created a one-page visual infographic highlighting the importance of digital lit
 
 ###  Task 2 — Student Digital Portfolio
 
-Developed professional profiles on platforms such as GitHub, LinkedIn, and Kaggle to establish a strong online presence for future academic and career opportunities.
+created professional profiles on platforms such as GitHub, LinkedIn, and Kaggle to establish a strong online presence for future academic and career opportunities.
 
 ###  Task 3 — Coding & Collaboration Platforms
 
-Completed a beginner coding challenge on HackerRank and created a Digital Literacy Awareness Quiz using Google Forms to demonstrate collaboration tools.
+Completed a coding challenge on HackerRank and created a Digital Literacy Awareness Quiz using Google Forms to demonstrate collaboration tools.
 
 ###  Task 4 — Professional Communication & Social Media Etiquette
 
@@ -62,9 +62,9 @@ Prepared a detailed case study on phishing attacks along with a prevention guide
 ---
 
 ##  Google Form Quiz
-
+```bash
  https://docs.google.com/forms/d/e/1FAIpQLScJ9KfalzGr2VmkLbfUp_oSr8fKXVzCCell8YKNvFryQ5h7Eg/viewform?usp=header
-
+```
 ---
 
 ##  Conclusion
