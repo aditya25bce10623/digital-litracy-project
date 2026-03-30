@@ -72,4 +72,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSf6nOqtYvxYbDfhwgyhsuOyk-fsnurpgKEoy37c
 This project enhanced my understanding of how digital technologies can be used safely, responsibly, and productively for academic success and future career development.
 
 ---
- *Thank you for reviewing my project.*
+ *Thank you for reviewing the project.*
