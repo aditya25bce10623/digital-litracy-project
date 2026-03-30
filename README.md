@@ -40,7 +40,7 @@ Prepared a detailed case study on phishing attacks along with a prevention guide
 
 ---
 
-## 🛠️ Tools & Platforms Used
+## Tools & Platforms Used
 
 * Canva — Infographic design
 * GitHub — Project repository
